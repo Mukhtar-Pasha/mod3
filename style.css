@@ -114,6 +114,10 @@
     font-family: 'montserrat-medium', 'sans-serif';
     font-weight: 700;
   }
+
+  h1 {
+    color:#E1670E;
+  }
   
   .list-reset {
     margin: 0;
