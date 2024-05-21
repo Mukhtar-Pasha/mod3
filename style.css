@@ -371,7 +371,7 @@
   }
   
   .calculation__container::before {
-    background-image: url('../img/calculation.jpg');
+    
     content: "";
     position: absolute;
     background-position: center;
