@@ -111,8 +111,7 @@
   }
   
   h3 {
-    font-family: 'montserrat-medium', 'sans-serif';
-    font-weight: 700;
+  color:var(--black-color)
   }
   
   .list-reset {
